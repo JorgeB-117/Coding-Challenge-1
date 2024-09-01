@@ -10,7 +10,7 @@ console.log(isActive, typeof(isActive));
 
 // Task 2: Compound Data Types
 
-let products = ["Monitor, Mouse, Keyboard"];
+let products = ["Monitor", "Mouse", "Keyboard"];
 const productDetails = {
     inStock: 3,
     name: products,
