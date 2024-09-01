@@ -43,3 +43,15 @@ console.log("After purchase 2250:", accountBalance);
 // Transaction Fee
 accountBalance %= 1000;
 console.log("After transaction fee modulo 1000:", accountBalance);
+
+//Task 4: Comparison Operators
+
+let employeeScore1 = 5;
+let employeeScore2 = 2;
+
+console.log(employeeScore1 > employeeScore2);
+console.log(employeeScore1 < employeeScore2);
+console.log(employeeScore1 >= employeeScore2);
+console.log(employeeScore1 <= employeeScore2);
+console.log(employeeScore1 === employeeScore2);
+console.log(employeeScore1 !== employeeScore2);
